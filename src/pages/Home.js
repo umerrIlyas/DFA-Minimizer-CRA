@@ -265,7 +265,7 @@ const Home = () => {
         </CardBody>
         <CardFooter className='d-flex flex-column flex-md-row flex-lg-row align-items-center justify-content-between'>
           <span>
-            Developed with Love 💖
+            Developed by Umer Ilyas
           </span>
         </CardFooter>
       </Card>
